@@ -110,8 +110,8 @@ class _profileState extends State<profile> {
                   const Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text('Shreyash Gajbhiye',style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold, fontSize: 22,),),
-                      Text('App Dev', style: TextStyle(color: Color.fromARGB(255, 6, 54, 94), fontWeight: FontWeight.w600),)
+                      Text('Shreyash Gajbhiye',style: TextStyle(color: Color.fromARGB(255, 19, 19, 19), fontWeight: FontWeight.bold, fontSize: 22,),),
+                      Text('App Dev', style: TextStyle(color: Color.fromARGB(255, 10, 78, 133), fontWeight: FontWeight.w600),)
                     ],
                   ),
                   const SizedBox(
